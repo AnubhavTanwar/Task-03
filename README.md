@@ -3,7 +3,7 @@ The Sparks Foundation - Internship
 Data Science and Bussines analytics  
 TASK-03\
 Exploratory Data Analysis-Retail
-Perofrm 'Exploratory Data Analysis' on dataset 'SampleSuperstore'
+Perform 'Exploratory Data Analysis' on dataset 'SampleSuperstore'
 
 Data can be found at https://bit.ly/3i4rbWl 
 
